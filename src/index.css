@@ -11,3 +11,111 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+ 
+
+.box1{
+ 
+  width: 343px;
+  height: 154px;
+  
+  text-align:center;
+ 
+ 
+  box-sizing: border-box;
+  border-radius: 10px;
+   margin: 2%;
+   
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 18px;
+   line-height: 22px;
+
+
+ }
+ 
+.box{
+ 
+  width: 350px;
+  height: 100px;
+  
+  text-align:center;
+ 
+  border: 3px solid #CE70FF;
+  box-sizing: border-box;
+  border-radius: 10px;
+   margin: 2%;
+   padding:5%;
+
+
+
+ }
+
+  
+.box3{
+ 
+  width: 370px;
+  height: 143px;
+   left: 0px;
+  text-align:center;
+ 
+  border: 3px solid #CE70FF;
+  box-sizing: border-box;
+  border-radius: 10px;
+  
+   padding: 5%;
+
+
+
+ }
+
+
+
+  
+.box4
+{
+ 
+  width: 300px;
+  height: 92px;
+ 
+  text-align:center;
+   margin: 2%;
+  
+  box-sizing: border-box;
+  border-radius: 15px;
+  
+   padding: 5%;
+   background: linear-gradient(250.8deg, #FFFFFF 3.87%, #E1C2E7 31.78%, #9BD1DD 47.66%, #E8B4F0 63.06%, #FFFFFF 96.27%);
+
+
+
+ }
+   
+.box5{
+ 
+    
+  width: 150px;
+  height: 17px;
+   margin: 6%;
+  text-align:center;
+ 
+  border: 3px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 10px;
+  
+   padding: 4%;
+  float: left;
+ }
+
+ .box8
+ {
+   left: 0px;
+   color: black;
+  border: 3px solid;
+  background: #FFFFFF;
+  width: 370px;
+  height: 364px;
+ 
+ }

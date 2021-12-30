@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.back{
+ 
+   padding: 3%;
+  height:845px;
+width: 441px;
+
+
+border-radius: 0px;
+  color: white;
+  background: linear-gradient(244.54deg, rgba(0, 153, 255, 0.42) 5.48%, rgba(110, 76, 255, 0.755) 62.63%, #DB00FF 109.63%);
+
+}
+
+ /* .box{
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  
+  
+  
+  border: 3px solid #CE70FF;
+  box-sizing: border-box;
+  border-radius: 10px;
+ 
+
+
+
+ } */
+
